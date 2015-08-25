@@ -2,8 +2,8 @@
 #author：m9Kun
 #time:2015-08-26
 
-import msvcrt
 def pwd_input():
+        import msvcrt
         chars = []
         while True:
             try:
