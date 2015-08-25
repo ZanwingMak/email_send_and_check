@@ -1,7 +1,8 @@
 #coding:utf-8
+#author：m9Kun
+#time:2015-08-26
 
 import msvcrt
-
 def pwd_input():
         chars = []
         while True:
